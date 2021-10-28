@@ -27,4 +27,7 @@ Rafael Bamberg - raafaelbamberg@gmail.com
 * [andrebpessoa](https://github.com/andrebpessoa)
 * [guiiffonseca](https://github.com/guiiffonseca)
 
+## Link do Pull Request
+[Trivia React Redux](https://github.com/tryber/sd-013-b-project-trivia-react-redux/tree/main-group-21)
+
 <p align="right">(<a href="#top">back to top</a>)</p>
