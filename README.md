@@ -1,8 +1,12 @@
+<header>
+  <img width="200px" src="9814df697eaf49815d7df109110815ff887b3457.png" alt="" />
+</header>
+
 <!-- Sobre o projeto -->
 ## Sobre o projeto
 
 Projeto feito em parceria com colegas da Tribo 13 - B
-* Feito utilizando metodologias ageis e Trello
+* Feito utilizando metodologias ágeis e Trello
 
 ### Tecnologias Utilizadas
 
